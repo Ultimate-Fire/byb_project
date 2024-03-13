@@ -1,1 +1,2 @@
-print("Git is awesome!")
+sentence = input("Please enter something to be printed: ")
+print(sentence)
